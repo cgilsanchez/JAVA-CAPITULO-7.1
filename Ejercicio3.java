@@ -12,6 +12,6 @@ public class Ejercicio3 {
         for (int i = 0; i < 10; i++) {
             System.out.println(arrayaux[j]);
         }
-        System.out.println("hoy tiene un humor que ya sabes jjajajja un humor de mierda mi colega");
+        System.out.println("");
     }
 }
